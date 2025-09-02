@@ -2,12 +2,15 @@
 Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents
 </h1>
 <div align='center'>
-  <p style="margin:4px 0;">
+  <p style="margin:3px 0;">
     Tao Wu<sup>1</sup>, Jingyuan Chen<sup>1,&dagger;</sup>, Wang Lin<sup>1</sup>, Mengze Li<sup>2</sup>, Yumeng Zhu<sup>1</sup>, Ang Li<sup>1</sup>, Kun Kuang<sup>1</sup>, Fei Wu<sup>1,&dagger;</sup></p>
+  <p style="margin:3px 0;">
   <sup>1</sup> Zhejiang University  &nbsp;&nbsp;&nbsp;
-                      <sup>2</sup> Hong Kong University of Science and Technology<br><br>
-  <sup>&dagger;</sup>Corresponding Authors<br><br>
-  <b>ACL 2025 Oral</b><br><br>
+    <sup>2</sup> Hong Kong University of Science and Technology</p>
+  <p style="margin:3px 0;">
+    <sup>&dagger;</sup>Corresponding Authors</p>
+  <p style="margin:3px 0;">
+    <b>ACL 2025 Oral</b></p>
   <a href='https://arxiv.org/abs/2505.19997'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
 </div>
 
