@@ -2,19 +2,13 @@
 Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents
 </h1>
 <div align='center'>
-  Tao Wu<sup>1</sup>, Jingyuan Chen<sup>1,&dagger;</sup>, Wang Lin<sup>1</sup>, Mengze Li<sup>2</sup>, Yumeng Zhu<sup>1</sup>, Ang Li<sup>1</sup>, Kun Kuang<sup>1</sup>, Fei Wu<sup>1,&dagger;</sup>
-</div>
-
-<div align='center'>
+  Tao Wu<sup>1</sup>, Jingyuan Chen<sup>1,&dagger;</sup>, Wang Lin<sup>1</sup>, Mengze Li<sup>2</sup>, Yumeng Zhu<sup>1</sup>, Ang Li<sup>1</sup>, Kun Kuang<sup>1</sup>, Fei Wu<sup>1,&dagger;</sup><br>
   <sup>1</sup> Zhejiang University  &nbsp;&nbsp;&nbsp;
-                      <sup>2</sup> Hong Kong University of Science and Technology
+                      <sup>2</sup> Hong Kong University of Science and Technology<br>
+  <sup>&dagger;</sup>Corresponding Authors<br>
+  <b>ACL 2025 Oral</b><br>
+  <a href='https://arxiv.org/abs/2505.19997'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
 </div>
-
-<div align='center'>
-  <sup>&dagger;</sup>Corresponding Authors
-</div>
-
-This is the offical code of our ACL 2025 oral paper, "Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents".
 
 ## Getting Started
 
@@ -73,6 +67,8 @@ This project is build upon [nano-graphrag](https://github.com/gusye1234/nano-gra
 
 
 ## Citation
+
+If you found this work useful, please consider giving this repository a star and citing our paper as followed:
 
 ```
 @inproceedings{studentsim,
