@@ -38,9 +38,9 @@ export OPENAI_API_KEY=your key
 
 Or you can directly modify in the code:
 
-[src/nano_graphrag/_llm.py](src/nano_graphrag/_llm.py#L24)
+* [src/nano_graphrag/_llm.py](src/nano_graphrag/_llm.py#L24)
 
-[src/utils.py](src/utils.py#L17)
+* [src/utils.py](src/utils.py#L17)
 
 You can use your own model with the corresponding API key and URL in the OpenAI API form.
 
